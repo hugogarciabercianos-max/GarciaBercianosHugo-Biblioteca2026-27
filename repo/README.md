@@ -1,6 +1,6 @@
 \#Sistema de Préstamos de Biblioteca#
 
-\*Aplicación en Java para gestionar los préstamos de una biblioteca. Permite registrar libros y 
+\*Aplicación en Java para gestionar los préstamos de una biblioteca. Permite registrar libros y
 
 socios, prestar libros disponibles (máximo 3 por socio) y devolverlos.\*
 
@@ -10,7 +10,7 @@ socios, prestar libros disponibles (máximo 3 por socio) y devolverlos.\*
 
 \[git clone](https://github.com/victorvergelgregorio/ApellidoNombreExamen2026-27.git)
 
-\*2.Copia config/secretos.properties con tus credenciales (no se sube al repositorio).\* 
+\*2.Copia config/secretos.properties con tus credenciales (no se sube al repositorio).\*
 
 \*3.Compila el proyecto desde la carpeta src:\*
 
@@ -28,5 +28,5 @@ socios, prestar libros disponibles (máximo 3 por socio) y devolverlos.\*
 
 Versión 1.1
 
-
+Final
 
