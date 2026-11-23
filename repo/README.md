@@ -26,5 +26,7 @@ socios, prestar libros disponibles (máximo 3 por socio) y devolverlos.\*
 
 \*GarciaHugo\*
 
+Versión 1.1
+
 
 
